@@ -18,4 +18,8 @@ public class Person {
         return "pizza";
     }
 
+    public void hello() {
+        System.out.println("Hello!");
+    }
+
 }
