@@ -4,6 +4,8 @@ public class Dog {
 
     // klasa testowa2
 
+    // Zmiany dla Pull Request
+
 
 
 }
