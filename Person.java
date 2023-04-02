@@ -8,6 +8,9 @@ public class Person {
     // jakieś zmiany4
 
     // następna zmiana
+    // następna zmiana
+    // następna zmiana
+    // następna zmiana
 
     public static final String HEIGHT = "100";
     public static final String WYSOKOSC = "100";
