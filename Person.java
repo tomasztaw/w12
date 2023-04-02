@@ -7,6 +7,8 @@ public class Person {
     // jakieś zmiany3
     // jakieś zmiany4
 
+    // następna zmiana
+
     public static final String HEIGHT = "100";
 
     private String name;
