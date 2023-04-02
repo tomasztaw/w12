@@ -1,0 +1,16 @@
+Gitflow -
+Można podzielić na branche krótkotrwałe i długotrwałe.
+Release - zbiór/paczka funkcjonalności
+Develop - główna robocza gałąź
+Feature - gałąź służąca do codziennej pracy
+Master - wersja produkcyjna aplikacji
+Hotfix - służy do naprawy krytycznych błędów, które zostały znaleźione na produkcji
+Charakteryzuje się długim czasem wdrożenia zmian w projekcit
+
+
+GitHub flow -
+Są tylko dwa branche:
+Master - aktualna wersja aplikacji
+Feature - praca nad nowymi funkcjonalnościami i poprawa błędów
+Szybsze/prostrze...
+
