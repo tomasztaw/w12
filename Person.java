@@ -3,6 +3,9 @@ import java.math.BigDecimal;
 public class Person {
 
     // jakieś zmiany
+    // jakieś zmiany2
+    // jakieś zmiany3
+    // jakieś zmiany4
 
     public static final String HEIGHT = "100";
 
