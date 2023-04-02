@@ -13,6 +13,7 @@ public class Person {
     // następna zmiana
 
     public static final String HEIGHT = "100";
+    public static final String WYSOKOSC = "100";
 
     private String name;
     private BigDecimal salary;
